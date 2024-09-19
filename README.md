@@ -11,6 +11,6 @@
 
 ## :floppy_disk: Current projects:
 
-- String libriary for C [link here](https://github.com/hollisgr/s21/tree/main/String)
-- Decimal libriary for C [link here](https://github.com/hollisgr/s21/tree/main/Decimal)
-- Matrix libriary for C [link here](https://github.com/hollisgr/s21/tree/main/Matrix)
+- [String](https://github.com/hollisgr/s21/tree/main/String) libriary for C
+- [Decimal](https://github.com/hollisgr/s21/tree/main/Decimal) libriary for C
+- [Matrix](https://github.com/hollisgr/s21/tree/main/Matrix) libriary for C 
