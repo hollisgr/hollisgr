@@ -1,6 +1,6 @@
 # hollisgr's github
 
-![gif](https://tenor.com/mM6CjkwT9UX.gif)
+![gif](https://tenor.com/ru/view/hello-world-seytonic-coding-hello-gif-10598764531210485569)
 
 ## :technologist: About me
 - Hi, I’m Aisen @hollisgr
