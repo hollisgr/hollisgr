@@ -1,6 +1,6 @@
 # hollisgr's github
 
-![gif](parrot-party.gif)
+![gif](gifs/hello-world.gif)
 
 ## :technologist: About me
 - Hi, I’m Aisen @hollisgr
@@ -16,3 +16,5 @@
 - [String](https://github.com/hollisgr/s21/tree/main/String) libriary for C
 - [Decimal](https://github.com/hollisgr/s21/tree/main/Decimal) libriary for C
 - [Matrix](https://github.com/hollisgr/s21/tree/main/Matrix) libriary for C 
+
+![gif](gifs/party-parrot.gif)
