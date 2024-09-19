@@ -4,7 +4,7 @@
 
 ## :shipit: About me
 - Hi, I’m Aisen @hollisgr
-- I am a student from School 21 Yakutsk, 32 y.o.
+- I am a student at School 21 Yakutsk, 32 y.o.
 ## :dart: For now I am studying:
 
 ![c](logos/c.png)
