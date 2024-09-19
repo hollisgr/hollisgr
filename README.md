@@ -1,6 +1,6 @@
 # hollisgr's github
 
-![gif](https://tenor.com/ru/view/parrot-party-dance-gif-13267006)
+![gif](parrot-party.gif)
 
 ## :technologist: About me
 - Hi, I’m Aisen @hollisgr
