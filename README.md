@@ -1,6 +1,6 @@
 # hollisgr's github
 
-![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc1OW5qaWxvdmd5d3R5dmpibXZpYTh2azZyMmhqOW9kaGFiOGl6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)
+![gif](https://tenor.com/mM6CjkwT9UX.gif)
 
 ## :technologist: About me
 - Hi, I’m Aisen @hollisgr
