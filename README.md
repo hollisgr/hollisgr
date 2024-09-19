@@ -12,3 +12,5 @@
 ## Current projects:
 
 - String libriary for C [link here](https://github.com/hollisgr/s21/tree/main/String)
+- Decimal libriary for C [link here](https://github.com/hollisgr/s21/tree/main/Decimal)
+- Matrix libriary for C [link here](https://github.com/hollisgr/s21/tree/main/Matrix)
