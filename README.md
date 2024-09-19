@@ -1,8 +1,8 @@
-# hollisgr's github
+# :trophy: hollisgr's github
 
 ![hello_gif](gifs/hello-world.gif)
 
-## :technologist: About me
+## :shipit: About me
 - Hi, I’m Aisen @hollisgr
 - I am a student from School 21 Yakutsk, 32 y.o.
 ## :dart: For now I am studying:
@@ -11,7 +11,7 @@
 ![cpp](logos/cpp.png)
 ![psql](logos/psql.png)
 
-## :floppy_disk: Current projects:
+## :white_check_mark: Current projects:
 
 - [Brickgame Tetris](https://github.com/hollisgr/s21/tree/main/Brickgame_tetris) interpretation of classical puzzle video game in C;
 - [Matrix_cpp](https://github.com/hollisgr/s21/tree/main/Matrix_cpp) library contains matrix structure and some algorithms to manipulate matrices in C++;
