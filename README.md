@@ -1,5 +1,7 @@
 # hollisgr's github
 
+![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmF5Z3hlNnFtMmgzMTRvbHQ0b2UzaGc1YW1nMmtteTBycGk1Y3BmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif)
+
 ## :technologist: About me
 - Hi, I’m Aisen @hollisgr
 - I am a student from School 21 Yakutsk, 32 y.o.
