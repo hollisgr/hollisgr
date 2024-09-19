@@ -9,7 +9,7 @@
 ![cpp](logos/cpp.png)
 ![psql](logos/psql.png)
 
-## Current projects:
+## :floppy_disk: Current projects:
 
 - String libriary for C [link here](https://github.com/hollisgr/s21/tree/main/String)
 - Decimal libriary for C [link here](https://github.com/hollisgr/s21/tree/main/Decimal)
