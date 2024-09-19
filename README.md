@@ -14,8 +14,9 @@
 ## :floppy_disk: Current projects:
 
 - [Brickgame Tetris](https://github.com/hollisgr/s21/tree/main/Brickgame_tetris) interpretation of classical puzzle video game in C;
-- [Matrix](https://github.com/hollisgr/s21/tree/main/Matrix) library contains matrix structure and some algorithms to manipulate matrices in C;
+- [Matrix_cpp](https://github.com/hollisgr/s21/tree/main/Matrix_cpp) library contains matrix structure and some algorithms to manipulate matrices in C++;
 - [Decimal](https://github.com/hollisgr/s21/tree/main/Decimal) interpretation of Decimal Data Type and functions to work with;
 - [String](https://github.com/hollisgr/s21/tree/main/String) interpretation of string.h libriary to manipulate C strings and arrays;
+- [Matrix](https://github.com/hollisgr/s21/tree/main/Matrix) library contains matrix structure and some algorithms to manipulate matrices in C;
 
 ![parrot_gif](gifs/parrot-party.gif)
