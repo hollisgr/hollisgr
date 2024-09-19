@@ -11,4 +11,4 @@
 
 ## Current projects:
 
-- ![string](https://github.com/hollisgr/s21/tree/main/String)
+- String libriary for C [link here](https://github.com/hollisgr/s21/tree/main/String)
