@@ -12,8 +12,9 @@
 ![psql](logos/psql.png)
 
 ## :white_check_mark: Current projects:
-
-- [Brickgame Tetris](https://github.com/hollisgr/s21/tree/main/Brickgame_tetris) interpretation of classical puzzle video game in C;
+|Project Name|Description|
+|:----------:|:-------------:|
+|[Brickgame Tetris](https://github.com/hollisgr/s21/tree/main/Brickgame_tetris) |Interpretation of classical puzzle video game in C|
 - [Matrix_cpp](https://github.com/hollisgr/s21/tree/main/Matrix_cpp) library contains matrix structure and some algorithms to manipulate matrices in C++;
 - [SQL_bootcamp](https://github.com/hollisgr/s21/tree/main/SQL_bootcamp) bootcamp SQL basics;
 - [Decimal](https://github.com/hollisgr/s21/tree/main/Decimal) interpretation of Decimal Data Type and functions to work with;
