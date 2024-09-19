@@ -3,7 +3,7 @@
 ## :technologist: About me
 - Hi, I’m Aisen @hollisgr
 - I am a student from School 21 Yakutsk, 32 y.o.
-- For now I am studying:
+- For now I am studying 	:dart: :
 
 ![c](logos/c.png)
 ![cpp](logos/cpp.png)
