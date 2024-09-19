@@ -9,3 +9,6 @@
 ![cpp](logos/cpp.png)
 ![psql](logos/psql.png)
 
+## Current projects:
+
+- ![string](https://github.com/hollisgr/s21/tree/main/String)
