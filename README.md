@@ -15,10 +15,10 @@
 |Project Name|Description|
 |:----------|:-------------|
 |[Brickgame Tetris](https://github.com/hollisgr/s21/tree/main/Brickgame_tetris) |Interpretation of classical puzzle video game in C|
-|[Matrix_cpp](https://github.com/hollisgr/s21/tree/main/Matrix_cpp) |Library that contains matrix structure and some algorithms to manipulate matrices in C++|
+|[Matrix_cpp](https://github.com/hollisgr/s21/tree/main/Matrix_cpp) |Library contains matrix structure and some algorithms to manipulate matrices in C++|
 |[SQL_bootcamp](https://github.com/hollisgr/s21/tree/main/SQL_bootcamp) |Bootcamp SQL basics|
 |[Decimal](https://github.com/hollisgr/s21/tree/main/Decimal) |Interpretation of Decimal Data Type and functions to work with|
 |[String](https://github.com/hollisgr/s21/tree/main/String) |Interpretation of string.h libriary to manipulate C strings and arrays|
-|[Matrix](https://github.com/hollisgr/s21/tree/main/Matrix) |Library that contains matrix structure and some algorithms to manipulate matrices in C|
+|[Matrix](https://github.com/hollisgr/s21/tree/main/Matrix) |Library contains matrix structure and some algorithms to manipulate matrices in C|
 
 ![parrot_gif](gifs/parrot-party.gif)
