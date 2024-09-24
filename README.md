@@ -3,7 +3,7 @@
 ![hello_gif](gifs/hello-world.gif)
 
 ## :shipit: About me
-- Hi, I’m Aisen;
+- Hello there!
 - I am a student at School 21 Yakutsk, 32 y.o;
 - telegram: @hollisgr
 
