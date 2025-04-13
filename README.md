@@ -11,6 +11,7 @@
 
 ![c](logos/c.png)
 ![cpp](logos/cpp.png)
+![cpp](logos/golang50x50.png)
 ![psql](logos/psql.png)
 
 ## :white_check_mark: Current projects:
