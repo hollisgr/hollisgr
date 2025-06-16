@@ -14,7 +14,7 @@
 ![cpp](logos/golang50x50.png)
 ![psql](logos/psql.png)
 
-## :white_check_mark: Current projects:
+## :white_check_mark: S21 projects:
 |Project Name|Description|
 |:----------|:-------------|
 |[Brickgame Tetris](https://github.com/hollisgr/s21/tree/main/Brickgame_tetris) |Interpretation of classical puzzle video game in C|
