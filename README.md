@@ -7,7 +7,7 @@
 - I am a student at School 21 Yakutsk, 32 y.o;
 - telegram: @hollisgr
 
-## Stack overview:
+## 💻 Stack overview:
 
 ### **Backend Development**
 - **Golang**: Efficient & concurrent programming language.
@@ -20,5 +20,10 @@
 
 ### **Documentation**
 - **Swag**: Automatic API documentation generator for RESTful services.
+
+## 🎯 Goals
+- Improve the quality of my code and create user-friendly tools.
+- Learn new technologies and share knowledge with the community.
+- Work on interesting projects and enjoy the development process.
 
 ![parrot_gif](gifs/parrot-party.gif)
