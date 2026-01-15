@@ -4,7 +4,6 @@
 
 ## :shipit: About me
 - Hello there!
-- I am a student at School 21 Yakutsk, 32 y.o;
 - telegram: @hollisgr
 
 ## 💻 Stack overview:
